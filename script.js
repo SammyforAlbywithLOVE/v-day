@@ -22,10 +22,10 @@ const noMessages = [
 ]
 
 const yesTeasePokes = [
-    "Prova prima a dire di no... Scommetto che vuoi sapere cosa succede 😏",
-    "Suvvia, premi no... solo una volta 👀",
+    "Prova a premere ""No""... Scommetto che vuoi sapere cosa succede 😏",
+    "Suvvia, premi ""No""... Solo una volta amore 👀",
     "Ti stai lasciando sfuggire un'opportunità 😈",
-    "Clicca no, Ti sfido 😏"
+    "Clicca ""No"", Ti sfido 😏"
 ]
 
 let yesTeasedCount = 0
